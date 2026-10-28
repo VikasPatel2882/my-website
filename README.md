@@ -45,6 +45,7 @@
 | [0032-longest-valid-parentheses](https://github.com/VikasPatel2882/my-website/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VikasPatel2882/my-website/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VikasPatel2882/my-website/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/VikasPatel2882/my-website/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VikasPatel2882/my-website/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VikasPatel2882/my-website/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VikasPatel2882/my-website/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/VikasPatel2882/my-website/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/VikasPatel2882/my-website/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VikasPatel2882/my-website/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/VikasPatel2882/my-website/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -156,4 +159,5 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/VikasPatel2882/my-website/tree/master/1254-number-of-closed-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/VikasPatel2882/my-website/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
