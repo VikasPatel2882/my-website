@@ -15,6 +15,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VikasPatel2882/my-website/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VikasPatel2882/my-website/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/VikasPatel2882/my-website/tree/master/2409-count-days-spent-together) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VikasPatel2882/my-website/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VikasPatel2882/my-website/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VikasPatel2882/my-website/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -160,4 +162,12 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/VikasPatel2882/my-website/tree/master/1254-number-of-closed-islands) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VikasPatel2882/my-website/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VikasPatel2882/my-website/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VikasPatel2882/my-website/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
