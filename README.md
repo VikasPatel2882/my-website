@@ -65,10 +65,12 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/VikasPatel2882/my-website/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/VikasPatel2882/my-website/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VikasPatel2882/my-website/tree/master/1267-count-servers-that-communicate) |
 ## Array
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/VikasPatel2882/my-website/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VikasPatel2882/my-website/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VikasPatel2882/my-website/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/VikasPatel2882/my-website/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VikasPatel2882/my-website/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/VikasPatel2882/my-website/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VikasPatel2882/my-website/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VikasPatel2882/my-website/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -161,10 +164,12 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/VikasPatel2882/my-website/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VikasPatel2882/my-website/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/VikasPatel2882/my-website/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VikasPatel2882/my-website/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/VikasPatel2882/my-website/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VikasPatel2882/my-website/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
@@ -175,4 +180,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VikasPatel2882/my-website/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/VikasPatel2882/my-website/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
